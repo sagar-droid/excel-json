@@ -42,9 +42,9 @@ A simple web application to convert Excel files (`.xlsx`, `.xls`) to JSON and JS
 
 4. Open http://localhost:3000 in your browser.
 
-5. **Build for Production**
-    npm run build
-    npm start
+5. **Build for Production:**
+    - npm run build
+    - npm start
 
 **Usage**
 **Excel to JSON:**
