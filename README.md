@@ -9,7 +9,6 @@ A simple web application to convert Excel files (`.xlsx`, `.xls`) to JSON and JS
 - **Copy & Download:** Easily copy JSON output to clipboard or download as a file.
 - **User-friendly UI:** Responsive, accessible, and styled with Tailwind CSS.
 - **Notifications:** Success and error messages powered by [sonner](https://sonner.emilkowal.ski/).
-- **Dark mode support.**
 
 ## Tech Stack
 
